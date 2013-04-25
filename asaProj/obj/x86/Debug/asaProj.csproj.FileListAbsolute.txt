@@ -1,0 +1,28 @@
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\obj\x86\Debug\asaProj.MainForm.resources
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\obj\x86\Debug\asaProj.csproj.GenerateResource.Cache
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\bin\Debug\asaProj.exe
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\bin\Debug\asaProj.pdb
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\obj\x86\Debug\asaProj.exe
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\obj\x86\Debug\asaProj.pdb
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\obj\x86\Debug\asaProj.jarakTerminal.resources
+D:\Dataku\SharpDevelop Projects\asaProj\asaProj\obj\x86\Debug\asaProj.Simulasi.resources
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\obj\x86\Debug\asaProj.exe
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\obj\x86\Debug\asaProj.pdb
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\bin\Debug\asaProj.exe
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\bin\Debug\asaProj.pdb
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\obj\x86\Debug\asaProj.jarakTerminal.resources
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\obj\x86\Debug\asaProj.MainForm.resources
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\obj\x86\Debug\asaProj.Simulasi.resources
+D:\Dataku\Visual Studio 2008\Projects\asaProj\asaProj\obj\x86\Debug\asaProj.csproj.GenerateResource.Cache
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\asaProj.exe
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\asaProj.pdb
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\asaProj.jarakTerminal.resources
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\asaProj.MainForm.resources
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\asaProj.Simulasi.resources
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\bin\Debug\asaProj.exe
+D:\PROJECT\Visual Studio 2010\asaProj\asaProj\bin\Debug\asaProj.pdb
